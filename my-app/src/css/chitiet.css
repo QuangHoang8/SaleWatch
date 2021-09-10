@@ -1,0 +1,76 @@
+figure.zoom {
+    background-position: 50% 50%;
+    position: relative;
+    overflow: hidden;
+    cursor: zoom-in;
+    margin: 0px;
+    border: 1px solid #e1e1e1;
+  }
+  
+  figure.zoom img:hover {
+    opacity: 0;
+  }
+  
+  figure.zoom img {
+    transition: opacity 0.5s;
+    display: block;
+    width: 100%;
+  }
+.under-menu{
+    margin-top: 100px;
+}
+.chi-tiet-name p{
+    font-weight: 400;
+}
+.chi-tiet-price p{
+  font-weight: 400;
+}
+.chi-tiet-price-now {
+    font-family: 'Quicksand', sans-serif;
+    margin-right: 10px;
+}
+.chi-tiet-button p{
+  font-weight: 400;
+}
+.chi-tiet-add-favorite{
+  padding: 5px;
+  color: white;
+}
+.chi-tiet-add-cart{
+  padding: 12px;
+  color: white;
+}
+.chi-tiet-add-cart{
+  background-color: #9f0808;
+}
+.chi-tiet-add-favorite{
+  background-color: black;
+  margin-top: 10px;
+}
+.chi-tiet-line{
+  height: 1px;
+  background-color: #e1e1e1;
+  margin: 80px 20px 30px 20px;
+}
+.chi-tiet-bao-hanh-title p{
+  font-weight: 400;
+}
+.chi-tiet-bao-hanh-title{
+  margin-bottom: 20px;
+}
+.chi-tiet-text{
+  font-weight: 400;
+  margin: 10px 0 5px 0;
+}
+.chi-tiet-ban-hang{
+  padding-left: 30px;
+}
+.chi-tiet-content{
+  margin-bottom: 50px;
+}
+.chi-tiet-dac-diem{
+  margin-top: 10px;
+}
+.chi-tiet-sale{
+  color:#9f0808;
+}

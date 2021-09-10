@@ -1,0 +1,35 @@
+.favorite-add-cart{
+    border:2px solid black;
+    width:100%;
+    padding:5px;
+}
+.favorite{
+    padding:20px;
+}
+.favorite-gr1 ,.favorite-gr2,.favorite-gr3{
+    background-color: #e6e6e6;
+}
+.favorite-gr1 img{
+    margin:15px 0 15px 0;
+}
+.favorite-old-price-line{
+    height:1px;
+    width: 100%;
+    background-color: black;
+    position:absolute;
+    top:50%;
+}
+.favorite-old-price{
+    position:relative;
+}
+.favorite-new-price{
+    color:#9f0808;
+    font-weight: 400;
+    margin-left: 5px;
+}
+.favorite-box{
+    margin-top: 50px!important;
+}
+.favorite-brand {
+    font-weight:400;
+}

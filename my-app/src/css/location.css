@@ -1,0 +1,25 @@
+.location-line{
+    margin-top:20px;
+    margin-bottom:20px;
+    height:2px;
+    background-color: #828282;
+}
+.location-address{
+    padding-left:30px;
+    padding-right:0px;
+}
+.location-button{
+    margin-top:10px;
+    margin-bottom:15px;
+    padding:10px;
+    background-color:#9f0808 ;
+}
+.location-button p{
+    color:white;
+}
+.location-showroom{
+    margin-bottom:10px
+}
+.location1{
+    margin-bottom:10px;
+}

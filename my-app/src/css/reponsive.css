@@ -1,0 +1,400 @@
+@media(max-width:1500px){
+    .gio-hang-products{   
+        height: 240px; 
+    }
+}
+
+@media(max-width:1200px){
+    .section-two-sale-sale-off{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .filter-box,.tag {
+        width: 20%;
+    }
+    .dong-ho-danh-sach{
+        width:60%;
+    }
+    .gio-hang-products{   
+        height: 200px; 
+    }
+    .dong-ho-add {
+        width:100%
+    }
+    .dong-ho-name-product{
+        height:63px
+    }
+    
+}
+@media(max-width:992px){
+    .text1,.text1b{   
+        font-size: 13px;
+    }
+    .text2{
+        font-size: 15px;
+    }
+    .text4{
+        font-size: 21px;
+    }
+    .text3{
+        font-size: 25px;
+    }
+    .section-two-sale1{
+        margin-left:20px;
+    }
+    .section-two-sale2{
+        margin-right:20px;
+    }
+    .menu-icon-box,.filter-mobile-close{
+        display: block;
+    }
+    .menu2{
+        display: none;
+    }
+    .menu-mobile-icon{
+        width: 25px;
+        height: 25px;
+    }
+    .topic{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .section-two{
+        padding-top:60px;
+    }
+    .banner-content{
+        top: 30%;
+        right: 13%;
+    }
+    .chi-tiet-ban-hang{
+        padding-left: 15px;
+      }
+    .chi-tiet-bao-hanh-title{
+        margin-bottom: 10px;
+    }
+    .under-menu{
+        margin-top: 95px;
+    }
+    .menu-mobile-box{
+        width: 40%;
+        padding-right: 4%;
+        padding-left: 4%;
+    }
+    .filter {
+        width: 40%;
+        -webkit-box-shadow: 5px 0px 5px -3px rgba(0,0,0,0.75);
+        -moz-box-shadow: 5px 0px 5px -3px rgba(0,0,0,0.75);
+        box-shadow: 5px 0px 5px -3px rgba(0,0,0,0.75);
+        padding-top:40px;
+        height:1000px;
+        background-color :white;
+        padding:15px;
+        position: relative;
+        padding-top:40px;
+    }
+    .filter-box{
+        width:100%;
+        background-color: #00000040;
+        position: absolute;
+        z-index:1000;
+        padding:0px;
+        height:1000px;
+    }
+    .dong-ho-danh-sach{
+        width:75%;    
+    }
+    .tag{
+        width:25%;
+    }
+    .filter-display{
+        display:block;
+    }
+    .gio-hang-products{   
+        height: 240px; 
+    }
+    .dong-ho-add {
+        width:70%
+    }
+    .dong-ho-name-product{
+        height:42px
+    }
+    .location-address{
+        margin-top:20px;
+        padding:0px;
+    }
+    .service-box{
+        margin-top:30px;
+    }
+}
+@media(max-width:850px){
+    .menu-mobile-box{
+        width: 50%;
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+    .dong-ho-danh-sach{
+        width:72%;    
+    }
+    .tag{
+        width:28%;
+    }
+    .gio-hang-products{   
+        height: 200px; 
+    }
+}
+@media(max-width:768px){
+    .text1,.text1b{   
+        font-size: 12px;
+    }
+    .text2{
+        font-size: 15px;
+    }
+    .text4{
+        font-size: 18px;
+    }
+    .text3{
+        font-size: 21px;
+    }
+    .banner-content{
+        top: 28%;
+        right: 10%;
+    }
+    .chi-tiet-name{
+        margin-top: 30px;
+    }
+    .chi-tiet-line{
+        margin-top: 50px;
+    }
+    .chi-tiet-price{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .under-menu{
+        margin-top: 90px;
+    }
+    .menu-mobile-box{
+        width: 60%;
+    }
+    .dong-ho-name-product{
+        height:54px;
+    }
+    .dong-ho-danh-sach{
+        width:70%;    
+    }
+    .tag{
+        width:30%;
+    }
+    .gio-hang-products{   
+        height: 140px; 
+    }
+    .gio-hang-products-price{
+        margin-top:10px!important;
+    }
+    .gio-hang-brand-name{
+        display:none!important;
+    }
+    .gio-hang-padding{
+        padding: 0 10px 0 10px;
+    }
+    .dong-ho-tool-icon-box{
+        width:50px;
+        }
+        .service-content{
+            margin-top:10px;
+        }
+}
+@media(max-width:680px){
+    .dong-ho-danh-sach{
+        width:100%;    
+    }
+    .tag{
+        display:none!important;
+    }
+    .gio-hang-products{   
+        height: 120px; 
+    }
+}
+@media(max-width:576px){
+    .text1,.text1b{   
+        font-size: 11px;
+    }
+    .text2{
+        font-size: 13px;
+    }
+    .text4{
+        font-size: 16px;
+    }
+    .text3{
+        font-size: 18px;
+    }
+    .underline {
+        width: 30%;
+    }
+    .section-two-sale-sale-off{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .menu-mobile-icon,.filter-mobile-close{
+        width: 20px;
+        height: 20px;
+    }
+    .icon{
+        height: 15px;
+    }
+    .img-margin{
+        margin-right: 10px;
+    }
+    .menu-icon{
+        padding-right: 15px !important;
+    }
+    .menu-icon-box{
+        padding-left: 15px;
+    }
+    .menu{
+        padding:10px 0 10px 0;
+    }
+    .section-two-sale-button{
+        padding: 5px;
+    }
+    .section-two-product-brand {
+        margin-top: 5px;
+    }
+    .section-one-content>.d-flex{
+        margin: 10px 0 10px 0;
+    }
+    .service-img{
+        height: 30px;
+        margin-right: 10px;
+    }
+    .topic{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .section-two{
+        padding-top:50px;
+    }
+    .filter {
+        width: 50%;
+    }
+    .banner-content{
+        top: 20%;
+        right: 7%;
+    }
+    .chi-tiet-bao-hanh-content{
+        display: none;
+    }
+    .chi-tiet-name{
+        margin-top: 30px;
+    }
+    .chi-tiet-line{
+        margin-top: 30px;
+    }
+    .chi-tiet-bao-hanh-title{
+        margin-bottom: 0px;
+    }
+    .under-menu{
+        margin-top: 75px;
+    }
+    .price{
+        width: 90%;
+    }
+    .add-to-cart{
+        padding: 2px 4px 2px 4px;
+    }
+    .menu-mobile-box{
+        width: 100%;
+        padding-right: 10%;
+        padding-left: 10%;
+    }
+    .dong-ho-name-product{
+        height:32px;
+    }
+    .sort{
+        width:130px;
+    }
+    .filter-display,.dong-ho-search,.sort{
+        margin-left:15px;
+    }
+    .dong-ho-search{
+        margin-right:15px;
+    }
+    .gio-hang-products{   
+        height: 110px; 
+    }
+    .thanh-toan{
+        padding:0px!important;
+    }
+    .dong-ho-tool-icon-box{
+        width:40px;
+        }
+    .group-all{
+        padding-left:10px;
+        padding-right:10px;
+        }
+    .content-group-margin{
+        margin-left:10px;
+    }
+}
+@media(max-width:450px){
+    .menu-mobile-box{
+        width: 100%;
+        padding-right: 10%;
+        padding-left: 10%;
+    }
+    .sort{
+        width:120px;
+    }
+    .gio-hang-padding{
+        padding:0 5px 0 5px;
+    }
+}
+@media(max-width:350px){
+    .text1,.text1b{   
+        font-size: 10px;
+    }
+    .text2{
+        font-size: 11px;
+    }
+    .text4{
+        font-size: 12px;
+    }
+    .text3{
+        font-size: 13px;
+    }
+    .menu{
+        padding:5px 0 5px 0;
+    }
+    .menu-mobile-icon,.filter-mobile-close{
+        width: 16px;
+        height: 16px;
+    }
+    .icon{
+        height: 12px;
+    }
+    .filter {
+        width: 100%;
+    }
+    .banner-content{
+        top: 10%;
+        right: 5%;
+    }
+    .under-menu{
+        margin-top: 65px;
+    }
+    .add-to-cart{
+        padding: 0px 2px 0px 2px;
+    }
+    .sort{
+        width:110px;
+    }
+    .filter-display,.sort{
+        margin-left:10px;
+    }
+    .dong-ho-search{
+        margin-right:10px;
+    }
+    .dong-ho-tool-icon-box{
+        width:30px;
+        }
+    
+}

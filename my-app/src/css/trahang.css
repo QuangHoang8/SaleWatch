@@ -1,0 +1,20 @@
+.content-text-weight{
+    font-weight: 400;
+}
+.content-text-color{
+    color:#9f0808;
+}
+.content-text-margin{
+    margin-top:20px;
+    margin-bottom:10px;
+}
+.content-group-margin{
+    margin-left:30px;
+}
+.group-all{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.content-text-start{
+    margin-top:20px
+}

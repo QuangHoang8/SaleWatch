@@ -1,0 +1,174 @@
+.banner-content{
+    position: absolute;
+    top: 40%;
+    right: 20%;
+    color: white;
+}
+.underline-banner{
+    width: 100%;
+   background-color:#9f0808 ;
+   margin: auto;
+   padding: 4px;  
+}
+.underline-banner p{
+    color: white;
+}
+.filter-box,.tag {
+    padding: 20px;
+    background-color: #f9f9f9;
+    width: 15%;
+}
+.filter-box{
+    transition:0.8s;
+}
+.filter-box form{
+    margin-bottom: 100px;
+}
+.filter-icon{
+    width: 10px;
+}
+.dropdown-content{
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.filter-check{
+    margin-left: 5px;
+}
+.dropdown-box{
+    padding-bottom: 10px;
+}
+.dropdown{
+    border-bottom: 1px solid black;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.dong-ho-danh-sach{
+    width: 70%;
+    overflow: hidden;
+}
+.dong-ho-brand,.dong-ho-sale{
+    font-weight: 400;
+}
+.dong-ho-sale{
+    color:#9f0808;
+}
+.dong-ho-new-price p{
+    font-weight: 400;
+}
+.dong-ho-add p{
+    font-weight: 400;
+    padding: 3px;
+}
+.dong-ho-add{
+    width: 70%;
+    border: 2px solid black;
+    background-color:white;
+}
+.dong-ho-content,.dong-ho-name{
+    padding-right: 5%;
+    padding-left: 5%;
+}
+.dong-ho-name-product{
+    height: 42px;
+}
+.dong-ho-product{
+    margin-top: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.dong-ho-content{
+    margin: 5px 0 10px 0;
+}
+.btn-active {
+    font-weight: 600;
+    color: #9f0808;
+}
+.sort{
+    width: 150px;
+    position: relative;
+    z-index:10;
+    margin-left: 20px;
+}
+.sort-title{
+    border:2px solid black;
+    height: 30px;
+}
+.sort-title p{
+    font-weight: 400;
+    color: black;
+}
+.sort-icon{
+    width: 10px;
+    height: 10px;
+    margin-left: 5px;
+}
+.sort-line-box{
+    background-color: #f9f9f9;
+    position: absolute;
+    z-index: -1;
+    transition: 0.5s;
+    width: 100%;
+}
+.dong-ho-sort-line p{
+    border-bottom: 1px solid #c3c3c3;
+    line-height: 30px;
+}
+.search-all{
+    font-weight: 400;
+    color:#9f0808
+}
+.tim-kiem-pho-bien p{
+    font-weight: 400;
+    color:white;
+}
+.tim-kiem-pho-bien {
+    background-color: black;
+    width: 100%;
+    padding:5px;
+}
+.tag-diffirent{
+    margin:10px 0 10px 0;
+    width: 100%;
+}
+.tag-diffirent div{
+    margin: 5px 0 5px 0;
+    width: 100%;    
+}
+.tag-diffirent p{
+    width: 100%;
+    text-align: center;
+}
+.activeTag{
+    background-color: #bfbfbf;
+}
+.dong-ho-page{
+    margin-top:30px ;
+    margin-bottom: 80px;
+}
+.filter-mobile-close{
+    width: 25px;
+    height: 25px;
+    display:none
+}
+.filter-display{
+    background-color: black;
+    height: 30px;
+    display:none;
+    margin-left:20px;
+    border-radius: 5px;
+}
+.dong-ho-tool-icon{
+    height:20px;
+}
+.dong-ho-tool-icon-box{
+    height:30px;
+    width:70px;
+    background-color:black;
+}
+.dong-ho-search{
+    margin-right:20px;
+    border-radius:0px;
+}
+.dong-ho-search input{
+    padding-left:10px;
+}

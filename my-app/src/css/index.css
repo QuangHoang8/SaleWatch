@@ -1,0 +1,217 @@
+
+/*-----------------------------------------------home-----------------------------------------------*/
+
+/*-----------------------------------------------section2-----------------------------------------------*/
+.section-two{
+    background-color: white;
+    padding-top: 80px;
+}
+.underline{
+    width: 15%;
+   background-color:#9f0808 ;
+   margin: auto;
+   padding: 4px;  
+}
+.underline p{
+    color: white;
+}
+
+.section-two-product-brand{
+    font-weight: 400;
+    margin-top:20px ;
+}
+.carousel-indicators li{
+    background-color: grey;
+}
+.like{
+   background-color: grey;
+   width: 40%;
+   height: 30px;
+}
+.price-old{
+    position: relative;
+}
+.price-new{
+    margin-left: 5px;
+}
+.price-old-line{
+    width: 100%;
+    height: 2px;
+    background-color: #9f0808;
+    position: absolute;
+    top: 45%;
+}
+.section-two-price .text1{
+    font-weight: 700;
+    font-style: italic;
+}
+.price-save{
+    color: #9f0808;
+    font-weight: 700;
+}
+.section-two-price{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.section-two-product-list{
+    margin-top: 40px;
+}
+.add-to-cart .text1{
+    font-weight: 400;
+    font-style:normal;
+    color: #9f0808;
+    font-weight: 600;
+}
+.section-two-product-name{
+    height: 42px;
+}
+/*----------sale-----------*/
+.section-two-sale2{
+    margin-left: 20px;
+    margin-right:20px;
+    position: relative;
+}
+.section-two-sale-background{
+    height: 100%;
+    width: 100%;
+    background-color:rgba(240, 240, 240, 0.9);
+    position: absolute;
+    top: 0;
+    right: 0 !important; 
+    padding: 5%;
+}
+.section-two-sale-background-line{
+    width: 60%;
+    height: 1px;
+    background-color: black;
+    margin-top: 5px;
+}
+.section-two-sale-sale-off{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.section-two-sale-sale-off p{
+    font-weight: 400;
+}
+.section-two-sale-sale-off .text3{
+    color: #9f0808;
+    font-weight: 800;
+}
+/*------collection-----------*/
+.section-two-sale-button{
+    border: 1px solid #9f0808;
+    padding: 10px;
+    border-radius: 4px;
+}
+.section-two-sale-button .text1{
+    color: #9f0808;
+    font-weight: 400;
+}.section-two-sale2,.section-two-sale1{
+    margin-top: 40px;
+}
+.section-two-collections-box,.section-two-baiviet-box{
+    background-color: rgba(240, 240, 240, 0.9);
+    -webkit-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.75);
+    border-radius: 0 0 10px 10px;
+    margin-top: 40px;
+    
+}
+
+.section-two-collections-name,.section-two-baiviet-xemthem{
+    padding: 20px 10px 20px 20px;
+}
+.section-two-collections-name img{
+    width: 15px;
+    height: 15px;
+    margin-right:15px;
+    transition:0.5s;
+}
+.section-two-baiviet-xemthem img{
+    width: 10px;
+    height: 10px;
+    margin-left: 10px;
+    transition:0.5s;
+}
+.section-two-baiviet-xemthem p{
+    color: #9f0808;
+}
+.section-two-baiviet-box{
+    position: relative;
+}
+.section-two-baiviet-tieude{
+    position: absolute;
+    background-color:#0000009e;
+    text-align: center;
+    width: 80%;
+    top: 30px;
+    padding: 20px;
+}
+.section-two-baiviet-tieude p{
+    font-weight: 400;
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.section-two-bai-viet{
+    padding-bottom: 80px;
+}
+/*-----------------------------------------------section1-----------------------------------------------*/
+.topic{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: white;
+}
+.service-img{
+    height: 40px;
+    margin-right: 15px;
+}
+.section-one-content>.d-flex{
+    margin: 20px 0 20px 0;
+}
+.section-one-box>.d-flex{
+    height: 100%;
+    background-color: #0000008a;
+}
+.section-one-content .text2{
+    color: white;
+    font-weight: 400;
+}
+.section-one-content{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.section-one-banner{
+    position: fixed;
+    z-index: -100;
+    top:0px;
+    height: 100vh;
+    width: auto;
+
+}
+.section-one-box{
+    overflow: hidden;
+}
+.email-sale{
+    background-color: #9b9b9bad;
+    padding: 20px;
+}
+.email-sale>.text2{
+    margin-bottom: 15px;
+}
+.email-submit{
+    background-color: #9f0808 ;
+    text-align: center;
+}
+.email-sale input{
+    border: none;
+    border-radius: 0;
+    width: 100%;
+    height: 100%;
+    padding-left: 10px;
+}
+/*---------------------all--------------------------*/
+.under-menu{
+    margin-top: 100px;
+}
+

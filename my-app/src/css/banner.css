@@ -1,0 +1,51 @@
+.banner-text p{
+    font-weight: 500;
+}
+
+.banner-text2{
+    background-color:#dedede;
+    height: 60px;
+    width: 100%;
+    padding-left: 30px;
+    position: absolute;
+    bottom: 0px;
+}
+.banner{
+    position: relative;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.banner-img{
+    transition:0.5s;
+}
+.show{
+    position: absolute;
+    bottom: -3%;
+    right: 10%;
+    width: 16%;
+    z-index: 10;
+}
+.banner-text p{
+    font-weight: 600;
+}
+.banner-text1{
+    padding: 10px 30px 10px 30px;
+    color: white;
+    background-color: black;
+    display: inline-block;
+    position: absolute;
+    bottom: 60px;
+}
+.banner-text2{
+    background-color:#dedede;
+    color: black;
+    
+}
+.banner-text a{
+    text-decoration: none;
+}
+.banner-text2 img{
+    margin-left: 40px;
+    width: 15px;
+    height: 15px;
+}

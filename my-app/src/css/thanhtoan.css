@@ -1,0 +1,72 @@
+#thanh-toan-address{
+    width: 100%;
+    margin-bottom:20px;
+    height:40px;
+    border:3px solid#828282;
+    border-radius:0;
+    outline:none;
+    color: black;
+    font-weight: 400;
+    padding-left: 30px;
+}
+.thanh-toan{
+    padding-right:20px;
+    padding-left:20px;
+    width:100%;
+}
+::placeholder{
+    color: grey;
+    font-weight: 400;
+    margin-left: 20px;
+}
+.validate{
+    position:absolute;
+    top:0px;
+    color:red;
+    left:5px
+}
+.thanh-toan-select{
+    position: relative;
+    width:100%;
+}
+.thanh-toan-address-box,.thanh-toan-thong-tin{
+    background-color:white;
+}
+.thanh-toan-pay-cart-select{
+    position: relative;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.thanh-toan-pay-cart-select img{
+    height:40px;
+}
+.thanh-toan-tien-mat,.thanh-toan-the{
+    padding:10px;
+    background-color: #eee;
+    border-radius:10px;
+}
+.thanh-toan-active{
+    border:3px solid black;
+}
+.thanh-toan-cart-select{
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.gio-hang-title-text{
+    font-weight: 600;
+    margin-bottom:20px;
+}
+.cart-active{
+    border-radius:10px;
+    border:5px solid #828282;
+}
+.thanh-toan-cart-info{
+    margin-bottom: 20px;
+}
+.thanh-toan-accept{
+    background-color: #9f0808;
+}
+.thanh-toan-accept p{
+    color:white;
+    font-weight: 400;
+}

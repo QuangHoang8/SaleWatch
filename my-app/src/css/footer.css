@@ -1,0 +1,36 @@
+.footer{
+    background-color: #d4d4d4;
+}
+.footer p{
+    color: black;
+}
+.footer-icon img{
+    margin:5px 10px 5px 10px;
+    height: 20px;
+}
+
+.footer-contact{
+    padding: 20px 0 20px 0;
+}
+.footer-menu{
+    padding: 5px 0 5px 0;
+    background-color: #d4d4d4;
+}
+.footer-menu li{
+    list-style: none;
+}
+.footer-menu > li{
+    position: relative;
+}
+.footer-logo{
+    width: 70%;
+}
+.text-center{
+    padding: 20px 0 40px 0
+
+}
+.footer-menu-con{
+    position: absolute;
+    left:-25px;
+    background-color: #d4d4d4;
+}
